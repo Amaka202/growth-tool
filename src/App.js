@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import example from './components/Example';
+import Example from './components/Example';
 
 
 function App() {
@@ -22,7 +22,7 @@ function App() {
       </header>
       <>
         <h1>This is the Firestore collection</h1>
-        <p>{ example.name }</p>
+        <Example />
       </>
     </div>
   );
