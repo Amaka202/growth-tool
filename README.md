@@ -60,7 +60,6 @@ cd client
 
 - To start the webapp, run: `npm start` OR `yarn start`
 
-```
 
 
 ## Authors
